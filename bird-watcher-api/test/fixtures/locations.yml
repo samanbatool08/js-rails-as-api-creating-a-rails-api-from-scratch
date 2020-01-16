@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  latitude: MyString
+  logitude: MyString
+
+two:
+  latitude: MyString
+  logitude: MyString
